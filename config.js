@@ -23,9 +23,9 @@ const CONFIG = {
     questions: {
         first: {
             text: "Do you like me (gotta make sure FIRST ifykykyk)?",                                    // First interaction
-            yesBtn: "Yes",                                             // Text for "Yes" button
+            yesBtn: "Yes Ofc Daddy👅",                                             // Text for "Yes" button
             noBtn: "No 🥺",                                               // Text for "No" button
-            secretAnswer: "I like you ANDDDD I love you! ❤️"           // Secret hover message
+            secretAnswer: "I like you ANDDDD I love you Daddyyy! ❤️"           // Secret hover message
         },
         second: {
             text: "How much do you realllllyyyyy love me tho?",                          // For the love meter
@@ -34,7 +34,7 @@ const CONFIG = {
         },
         third: {
             text: "SOOO BBUBBBBAAAAA, PWEASSEEEE Will you be my Valentine? 🌹", // The big question!
-            yesBtn: "Yes! 😍",                                             // Text for "Yes" button
+            yesBtn: "Yes Daddy PLEASE! 😍",                                             // Text for "Yes" button
             noBtn: "No 🥺"                                                 // Text for "No" button
         }
     },
@@ -42,15 +42,15 @@ const CONFIG = {
     // Love meter messages
     // They show up depending on how far they slide the meter
     loveMessages: {
-        extreme: "WOOOOW YIPPPEY TO INFINITYYY AND BACKKKK?? 🥰🚀💝",  // Shows when they go past 5000%
-        high: "HEHEH alll the wayy to the moon now! 🚀💝",              // Shows when they go past 1000%
+        extreme: "WOOOOW TO INFINITYYY AND BACKKKK PAPIIII🥰🚀💝. Time for you to come prove it 👅😈👅",  // Shows when they go past 5000%
+        high: "HEHEH alll the wayy to the moon now baby! 🚀💝",              // Shows when they go past 1000%
         normal: "YAYYYY, even more???! 🥰"                           // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "AAWWWWW MY BABYYY I'm sooo Luckyyy AWWWW! 🎉💝💖💝💓",
-        message: "Now Come Gimeee a Big Tight HUGGGGIEEEE MWAHHHHHH!",
+        title: "YOU ARE SUCH A GOOD GIRL! 🎉💝💖💝💓",
+        message: "AAWWWWW MY BABYYY I'm sooo Luckyyy AWWWW! Now Come Gimeee a Big Tight HUGGGGIEEEE MWAHHHHHH!",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
 
