@@ -49,8 +49,8 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "AAWWWWW MY BABYYY I'm sooo luckyyy AWWWW! 🎉💝💖💝💓",
-        message: "Now come gimeee a big tight hugggieee and a hugeeee kiss!",
+        title: "AAWWWWW MY BABYYY I'm sooo Luckyyy AWWWW! 🎉💝💖💝💓",
+        message: "Now Come Gimeee a Big Tight HUGGGGIEEEE MWAHHHHHH!",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
 
